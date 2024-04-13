@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/manikandang/Documents/Android class/InterviewMessageApp/app/.cxx/Debug/6siu2q2q/x86_64",
+  "command": "/Users/manikandang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/manikandang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmessage_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/message.dir/native-lib.cpp.o -c \"/Users/manikandang/Documents/Android class/InterviewMessageApp/app/src/main/cpp/native-lib.cpp\"",
+  "file": "/Users/manikandang/Documents/Android class/InterviewMessageApp/app/src/main/cpp/native-lib.cpp"
+}
+]

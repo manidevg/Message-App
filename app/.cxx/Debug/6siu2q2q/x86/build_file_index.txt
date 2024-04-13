@@ -1,0 +1,1 @@
+/Users/manikandang/Documents/Android class/InterviewMessageApp/app/src/main/cpp/CMakeLists.txt

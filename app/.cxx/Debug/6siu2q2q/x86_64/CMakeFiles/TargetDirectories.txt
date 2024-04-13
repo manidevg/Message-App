@@ -1,0 +1,3 @@
+/Users/manikandang/Documents/Android class/InterviewMessageApp/app/.cxx/Debug/6siu2q2q/x86_64/CMakeFiles/message.dir
+/Users/manikandang/Documents/Android class/InterviewMessageApp/app/.cxx/Debug/6siu2q2q/x86_64/CMakeFiles/edit_cache.dir
+/Users/manikandang/Documents/Android class/InterviewMessageApp/app/.cxx/Debug/6siu2q2q/x86_64/CMakeFiles/rebuild_cache.dir

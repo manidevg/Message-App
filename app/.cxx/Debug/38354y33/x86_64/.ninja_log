@@ -1,0 +1,16 @@
+# ninja log v5
+1	4073	1713008667414704338	CMakeFiles/message.dir/native-lib.cpp.o	7aa50a1dcbd39828
+4077	5356	1713008668634880227	/Users/manikandang/Documents/Android class/InterviewMessageApp/app/build/intermediates/cxx/Debug/38354y33/obj/x86_64/libmessage.so	634774648859c3ef
+0	13	0	clean	c2e52a8a1b62328c
+0	10	0	clean	c2e52a8a1b62328c
+0	10	0	clean	c2e52a8a1b62328c
+0	9	0	clean	c2e52a8a1b62328c
+9	2556	1713025901624594513	CMakeFiles/message.dir/native-lib.cpp.o	7aa50a1dcbd39828
+2557	3179	1713025902175439893	/Users/manikandang/Documents/Android class/InterviewMessageApp/app/build/intermediates/cxx/Debug/38354y33/obj/x86_64/libmessage.so	634774648859c3ef
+1	22	0	clean	c2e52a8a1b62328c
+0	9	0	clean	c2e52a8a1b62328c
+0	9	0	clean	c2e52a8a1b62328c
+0	7	0	clean	c2e52a8a1b62328c
+0	7	0	clean	c2e52a8a1b62328c
+0	8	0	clean	c2e52a8a1b62328c
+0	8	0	clean	c2e52a8a1b62328c

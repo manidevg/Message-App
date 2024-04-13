@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/manikandang/Documents/Android class/InterviewMessageApp/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/manikandang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/manikandang/Documents/Android class/InterviewMessageApp/app/.cxx/Debug/6siu2q2q/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/manikandang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/manikandang/Documents/Android class/InterviewMessageApp/app/.cxx/Debug/6siu2q2q/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "message::@6890427a1f51a3e7e1df": {
+      "artifactName": "message",
+      "abi": "x86",
+      "output": "/Users/manikandang/Documents/Android class/InterviewMessageApp/app/build/intermediates/cxx/Debug/6siu2q2q/obj/x86/libmessage.so",
+      "runtimeFiles": []
+    }
+  }
+}
